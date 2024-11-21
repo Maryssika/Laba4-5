@@ -6,7 +6,7 @@
 
 Клонирование репозитория:
 
- https://github.com/Maryssika/Laba4-5.git
+git clone Maryssika/Laba4-5
 
 # Основные компоненты:
 
